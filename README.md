@@ -6,12 +6,12 @@ Web developer
 
 I have graduated from Kocaeli University Computer Engineering department and previously developed or contributed to projects in various fields such as Web applications (Laravel, PHP, Node.js ) Android (Java), Desktop applications (Java, C #), Artificial Intelligence. Now I.'m working as a Backend Web Developer with MERN stack. I think learning a language and programming like a civil servant is to belittle Computer Engineering. As an engineer, my job is to address needs and solve problems like any engineer. I should be able to use whatever it needs to be used to solve problems.
 
-* 🌍  I'm based in İstanbul
+* 🌍  Based in İstanbul
 * ✉️  You can contact me at [contactmadilekci@gmail.com](mailto:contactmadilekci@gmail.com)
-* 🚀  I'm currently working on [Avena Platform](http://avena.co)
-* 🧠  I'm learning Web scraping with node.js & puppeteer
+* 🚀  Currently working on [Avena Platform](http://avena.co)
+* 🧠  Learning Web scraping with node.js & puppeteer
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Also you can invite me for a rapid chess game on lichess : glztrick
+* ⚡  Also you can invite me for a blitz or bullet chess game on lichess : glztrick
 
 ### Skills
 
