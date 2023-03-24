@@ -9,7 +9,7 @@ I have graduated from Kocaeli University Computer Engineering department and pre
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [contactmadilekci@gmail.com](mailto:contactmadilekci@gmail.com)
 * 🚀  I'm currently working on [Avena Platform](http://avena.co)
-* 🧠  I'm learning React.js & Web scraping with node.js
+* 🧠  I'm learning Web scraping with node.js & puppeteer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Also you can invite me for a rapid chess game on lichess : glztrick
 
