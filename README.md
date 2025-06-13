@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I have graduated from Kocaeli University Computer Engineering department and previously developed or contributed to projects in various fields such as Web applications (Laravel, PHP, Node.js ) Android (Java), Desktop applications (Java, C #), Artificial Intelligence. Now I.'m working as a Backend Web Developer with MERN stack. I think learning a language and programming like a civil servant is to belittle Computer Engineering. As an engineer, my job is to address needs and solve problems like any engineer. I should be able to use whatever it needs to be used to solve problems.
+I have graduated from Kocaeli University Computer Engineering department and previously developed or contributed to projects in various fields such as Web applications (PHP+Laravel / React+Node ) Android (Java), Desktop applications (Java, C #), Artificial Intelligence. Now I.'m working as a Backend Web Developer with MERN stack. I think learning a language and programming like a civil servant is to belittle Computer Engineering. As an engineer, my job is to address needs and solve problems like any engineer. I should be able to use whatever it needs to be used to solve problems.
 
 * 🌍  Based in İstanbul
 * ✉️  You can contact me at [contactmadilekci@gmail.com](mailto:contactmadilekci@gmail.com)
-* 🚀  Currently working on [Avena Platform](http://avena.co)
+* 🚀  Currently working on [Retrace.ai](https://retrace.ai)
 * 🧠  Learning Web scraping with node.js & puppeteer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Also you can invite me for a blitz or bullet chess game on lichess : glztrick
@@ -39,4 +39,4 @@ I have graduated from Kocaeli University Computer Engineering department and pre
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/madilekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Muhammed Ali#7140" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/madilekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/malidilekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/madilekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
