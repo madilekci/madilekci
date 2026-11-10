@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I have graduated from Kocaeli University Computer Engineering department and previously developed or contributed to projects in various fields such as Web applications (MERN Stack / PHP+Laravel ) Android (Java), Desktop applications (Java, C #), Artificial Intelligence. Now I.'m working as a Fullstack Web Developer with MERN stack. I think learning a language and programming like a civil servant is to belittle Computer Engineering. As an engineer, my job is to address needs and solve problems like any engineer. I should be able to use whatever it needs to be used to solve problems.
+I have graduated from Kocaeli University Computer Engineering department and previously developed or contributed to projects in various fields such as Web applications (MERN Stack / PHP+Laravel ) Android (Java), Desktop applications (Java, C #), Artificial Intelligence. Now I'm working as a Fullstack Web Developer with MERN stack. I think learning a language and programming like a civil servant is to belittle Computer Engineering. As an engineer, my job is to address needs and solve problems like any engineer. I should be able to use whatever it needs to be used to solve problems.
 
 * ✉️  You can contact me at [contactmadilekci@gmail.com](mailto:contactmadilekci@gmail.com)
 * 🚀  Currently working on [Fuzulev](https://landing.fuzulev.com)
